@@ -1,10 +1,10 @@
 # Exercise_Unit5_website
 
-## Descripción del Repositorio
+## Repository Description
 
-Este repositorio contiene los archivos de un sitio web sencillo creado como parte del Ejercicio de la Unidad 5 para el control de versiones con Git y GitHub.
+This repository contains the files for a simple website created as part of Unit 5 Exercise on version control using Git and GitHub.
 
-## Tecnologías Utilizadas
+## Technologies Used
 
-* **HTML**: Para la estructura del contenido (`index.html`).
-* **CSS**: Para el estilo y la presentación del sitio (`styles.css`).
+* **HTML**: For the content structure (`index.html`).
+* **CSS**: For the styling and presentation of the site (`styles.css`).
