@@ -1,0 +1,11 @@
+# Archivos y carpetas ignoradas
+
+# Archivos de configuración de editores comunes (VS Code)
+.vscode/
+# Archivos de sistema (generados por Mac, Windows, etc.)
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.tmp
+*.log
